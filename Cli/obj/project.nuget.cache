@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6lYgH4SiEk=",
+  "success": true,
+  "projectFilePath": "D:\\ООП 2 курс\\Ars\\Cli\\Cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.commandline\\3.0.0\\system.commandline.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
